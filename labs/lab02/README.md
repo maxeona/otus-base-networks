@@ -100,7 +100,7 @@ ARP таблица на PC-B
 
 ![Снимок экрана от 2024-03-17 21-16-02](https://github.com/maxeona/otus-base-networks/assets/53625941/d2954105-1c0f-4a0c-95fd-b788980440d3)
 
-После отправки эхо запрсоов к PC-A,S2,S1
+После отправки эхо запрсоов к PC-A,S2,S1 вывод таблицы адресов у коммутатора S2
 
 ![Снимок экрана от 2024-03-17 21-12-33](https://github.com/maxeona/otus-base-networks/assets/53625941/d633058e-bb34-4b3e-b53f-1081ba720f40)
 
