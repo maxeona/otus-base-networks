@@ -1,4 +1,4 @@
-# Просмотр таблицы MAC-адресов коммутатора
+![Снимок экрана от 2024-03-17 21-14-23](https://github.com/maxeona/otus-base-networks/assets/53625941/7f5b9a88-c274-4589-b6a8-b1091e650a69)# Просмотр таблицы MAC-адресов коммутатора
 ## Топология и таблица адресации
 
 ![Снимок экрана от 2024-03-17 20-11-10](https://github.com/maxeona/otus-base-networks/assets/53625941/58ab266d-ef15-4cbe-bbea-4bce2a917b39)
@@ -40,8 +40,43 @@ do reload
 Команды настроек базовых параметров каждого коммутатора
 en // Привилегированный режим EXEC
 conf t // Режим глобальной конфигурации
-
-
+hostname {name}
+int vlan 1
+ip address {IP} 255.255.255.0
+no shutdown
 
 ![Снимок экрана от 2024-03-17 20-51-12](https://github.com/maxeona/otus-base-networks/assets/53625941/443adbe9-0e0c-46a9-8dbc-e5f20c1b433d)
 
+
+![Снимок экрана от 2024-03-17 21-02-07](https://github.com/maxeona/otus-base-networks/assets/53625941/fedbf6e8-269d-4902-843a-d646eb6481cd)
+
+Итоговая топология
+![Снимок экрана от 2024-03-17 21-03-41](https://github.com/maxeona/otus-base-networks/assets/53625941/aba1c459-451e-484e-8bee-08275d26a003)
+
+
+
+ЧАСТЬ 2
+PC-A
+Physical Address................: 0090.2161.1AA7
+
+PC-B
+Physical Address................: 0060.47CA.7B69
+
+S1
+bia 0000.0c7b.1301
+S2
+bia 000c.cf47.24aa
+
+
+After show mac address-table
+![Снимок экрана от 2024-03-17 21-07-56](https://github.com/maxeona/otus-base-networks/assets/53625941/c581647e-f180-4bbd-9fdb-d283d831aeb4)
+
+![Снимок экрана от 2024-03-17 21-10-40](https://github.com/maxeona/otus-base-networks/assets/53625941/05be2084-ed56-4659-ab31-bf6618915ec1)
+
+После отправки эхо запрсоов к PC-A,S2,S1
+
+![Снимок экрана от 2024-03-17 21-12-33](https://github.com/maxeona/otus-base-networks/assets/53625941/d633058e-bb34-4b3e-b53f-1081ba720f40)
+
+arp -a на PC-B
+
+![Снимок экрана от 2024-03-17 21-14-23](https://github.com/maxeona/otus-base-networks/assets/53625941/c5432f4f-4dfa-433e-a6ff-5db9444bee4f)
