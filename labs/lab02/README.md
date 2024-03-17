@@ -26,9 +26,11 @@
 ###  Решение:
 
 Настройка узла PC-A
+
 ![Снимок экрана от 2024-03-17 20-34-08](https://github.com/maxeona/otus-base-networks/assets/53625941/3b5b1cd1-9028-4d58-8589-9b3ec5ebb4a8)
 
 Настройка узла PC-B
+
 ![Снимок экрана от 2024-03-17 20-56-39](https://github.com/maxeona/otus-base-networks/assets/53625941/6744a482-8379-4991-bdc9-7daaec9de6aa)
 
 
