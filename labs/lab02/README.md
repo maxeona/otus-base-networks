@@ -1,4 +1,4 @@
-![Снимок экрана от 2024-03-17 20-36-49](https://github.com/maxeona/otus-base-networks/assets/53625941/e8c53fb0-56d5-4c96-801f-31de5cd91688)# Просмотр таблицы MAC-адресов коммутатора
+# Просмотр таблицы MAC-адресов коммутатора
 ## Топология и таблица адресации
 
 ![Снимок экрана от 2024-03-17 20-11-10](https://github.com/maxeona/otus-base-networks/assets/53625941/58ab266d-ef15-4cbe-bbea-4bce2a917b39)
