@@ -56,7 +56,12 @@
 
 Настройка интерфейса SVI
 ```
+# Настройка интерфейса
 interface vlan 1
 ip address 192.168.1.2 255.255.255.0
 no shutdown
+# Настройка доступа
+line con 0
+password cisco
+logging synchronous
 ```
