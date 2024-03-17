@@ -86,7 +86,8 @@ S2
 bia 000c.cf47.24aa
 ```
 
-After show mac address-table
+### Просмотр таблицы MAC-адресов коммутатора S2 до и после тестирования сетевой связи
+
 ![Снимок экрана от 2024-03-17 21-07-56](https://github.com/maxeona/otus-base-networks/assets/53625941/c581647e-f180-4bbd-9fdb-d283d831aeb4)
 
 ![Снимок экрана от 2024-03-17 21-10-40](https://github.com/maxeona/otus-base-networks/assets/53625941/05be2084-ed56-4659-ab31-bf6618915ec1)
