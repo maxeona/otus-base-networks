@@ -70,3 +70,14 @@ logging synchronous
 ![Снимок экрана от 2024-04-07 16-36-28](https://github.com/maxeona/otus-base-networks/assets/53625941/66c2907f-6426-4f09-ba74-ef270dd0e64b)
 
 ### Часть 3. Проверка сетевых подключений
+
+**Проверка**
+
+![Снимок экрана от 2024-04-07 16-47-13](https://github.com/maxeona/otus-base-networks/assets/53625941/7f03cc25-82f9-4053-b72f-381a43ae5f70)
+
+**Отправка эхо-запроса на административный адрес интерфейса SVI коммутатора S1**
+
+![Снимок экрана от 2024-04-07 16-48-25](https://github.com/maxeona/otus-base-networks/assets/53625941/a60b0a71-bda3-4a4a-a39c-9aba1afde947)
+
+**Проверка удаленного управления коммутатором S1**
+
