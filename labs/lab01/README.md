@@ -65,3 +65,8 @@ line con 0
 password cisco
 logging synchronous
 ```
+Настройка IP-адреса на компьютере PC-A
+
+![Снимок экрана от 2024-04-07 16-36-28](https://github.com/maxeona/otus-base-networks/assets/53625941/66c2907f-6426-4f09-ba74-ef270dd0e64b)
+
+### Часть 3. Проверка сетевых подключений
